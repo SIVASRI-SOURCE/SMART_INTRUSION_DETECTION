@@ -45,11 +45,15 @@ set_background('Background/1.png')
 logging.basicConfig(filename='attack_log.txt', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Email config
-SENDER_EMAIL = 'sathyakumar17112022@gmail.com'
-EMAIL_PASSWORD = 'ncfplwzacztjnxyp'
-RECEIVER_EMAIL = 'smartidsalerts@gmail.com'
+SENDER_EMAIL = os.getenv('SENDER_EMAIL', '')
+EMAIL_PASSWORD = os.getenv('EMAIL_PASSWORD', '')
+RECEIVER_EMAIL = os.getenv('RECEIVER_EMAIL', 'smartidsalerts@gmail.com')
 
 def send_alert_email(subject, body):
+    if not SENDER_EMAIL or not EMAIL_PASSWORD:
+        logging.warning('Email credentials are not configured. Skipping alert email.')
+        return
+
     msg = MIMEText(body)
     msg['Subject'] = subject
     msg['From'] = SENDER_EMAIL

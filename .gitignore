@@ -1,0 +1,34 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache and local runtime files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Local databases and app data
+*.db
+*.sqlite
+*.sqlite3
+Sourcecode/users.db
+Sourcecode/attack_log.txt
+Sourcecode/honeypot.csv
+Sourcecode/testdata.csv
+Sourcecode/Model.h5
+Sourcecode/Background/Thumbs.db
+
+# Office/document files
+*.docx
+*.pptx
+*.pdf
+*.zip
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+*~
