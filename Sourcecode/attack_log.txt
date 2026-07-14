@@ -1,0 +1,409 @@
+2025-05-02 14:08:19,739 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-05-02 14:08:20,352 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-05-02 14:08:20,967 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-05-02 14:08:21,571 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-05-02 14:08:22,174 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-05-02 14:08:22,777 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-05-02 14:08:25,254 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-05-02 14:08:25,863 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-05-02 14:08:26,470 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-05-02 14:08:27,076 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-05-02 14:08:31,000 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-05-02 14:08:31,604 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-05-02 14:28:54,981 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-05-02 14:28:55,589 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-05-02 14:28:56,196 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-05-02 14:28:56,806 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-05-02 14:28:57,418 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-05-02 14:28:58,027 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-05-02 14:28:58,630 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-05-02 14:28:59,248 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-05-02 14:30:16,727 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-05-02 14:30:17,332 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-05-02 14:30:17,948 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-05-02 14:30:18,028 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-05-02 14:30:18,550 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-05-02 14:30:18,645 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-05-02 14:30:19,167 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-05-02 14:30:19,262 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-05-02 14:30:19,783 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-05-02 14:30:19,878 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-05-02 14:30:24,018 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-05-02 14:30:24,628 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-09 17:14:10,949 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-09 17:14:11,557 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-09 17:14:12,167 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-09 17:14:12,777 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-09 17:14:13,382 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-09 17:14:13,988 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-09 17:14:14,595 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-09 17:14:14,901 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-09 17:14:15,201 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-09 17:14:15,514 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-09 17:14:15,514 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-09 17:14:16,122 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-09 17:14:16,733 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-09 17:14:17,341 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-09 17:14:17,948 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-09 17:14:18,556 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-09 17:14:19,164 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-10 17:21:43,153 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-10 17:21:43,772 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-10 17:21:43,933 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-10 17:21:44,386 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-10 17:21:44,545 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-10 17:21:44,999 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-10 17:21:45,154 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-10 17:21:45,610 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-10 17:21:45,768 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-10 17:21:46,224 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-10 17:21:46,227 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-10 17:21:46,382 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-10 17:21:46,839 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-10 17:21:46,994 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-10 17:21:47,452 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-10 17:21:47,610 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-10 17:21:48,222 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-10 17:55:37,091 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-10 17:55:37,560 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-10 17:55:37,667 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-10 17:55:37,697 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-10 17:55:38,162 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-10 17:55:38,271 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-10 17:55:38,302 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-10 17:55:38,338 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-10 17:55:38,724 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-10 17:55:38,768 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-10 17:55:38,876 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-10 17:55:38,909 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-10 17:55:38,940 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-10 17:55:39,333 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-10 17:55:39,489 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-10 17:55:39,521 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-10 17:55:39,552 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-10 17:55:39,940 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-10 17:55:40,097 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-10 17:55:40,127 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-10 17:55:40,159 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-10 17:55:40,545 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-10 17:55:40,701 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-10 17:55:40,764 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-10 17:55:41,153 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-10 17:55:41,373 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-10 17:55:41,763 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-10 17:55:43,098 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-10 17:55:43,712 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-10 17:55:44,316 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-13 13:14:49,228 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:14:49,830 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:14:50,439 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:14:51,022 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:14:51,048 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:14:51,625 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:14:51,655 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:14:52,232 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:14:52,264 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:14:52,844 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:14:52,845 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-13 13:14:52,875 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:14:53,450 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:14:53,482 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:14:54,056 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:14:54,666 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:14:55,271 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:25:41,335 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:25:41,946 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:25:42,554 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:25:43,163 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:25:43,768 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:25:44,381 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:25:44,988 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:25:45,597 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:25:48,821 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:25:49,423 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:25:49,423 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-13 13:25:50,030 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:25:50,639 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:25:51,241 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:25:51,849 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:25:52,457 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:25:53,066 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:30:35,328 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:30:35,940 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:30:36,548 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:30:37,151 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:30:37,755 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:30:37,854 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:30:38,361 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:30:38,470 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:30:38,969 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:30:39,078 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:30:39,079 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-13 13:30:39,576 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:30:39,685 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:30:40,295 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:30:40,904 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:30:41,516 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:30:42,127 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:31:21,895 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:31:22,512 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:31:23,118 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:31:23,725 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:31:24,333 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:31:24,937 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:31:25,546 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:31:26,149 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 13:31:34,767 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 13:31:35,376 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 13:31:35,376 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-13 13:31:35,983 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 13:31:36,595 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 13:31:37,204 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 13:31:37,812 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 13:31:38,419 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 13:31:39,040 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 21:56:54,140 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 21:56:54,756 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 21:56:55,156 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-13 21:56:55,368 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 21:56:55,760 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-13 21:56:55,981 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 21:56:56,376 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-13 21:56:56,597 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 21:56:56,990 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-13 21:56:57,211 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 21:56:57,212 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-13 21:56:57,592 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-13 21:56:57,824 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 21:56:58,197 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-13 21:56:58,431 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 21:56:58,810 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-13 21:56:59,420 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-13 22:35:44,075 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-13 22:35:44,690 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-13 22:35:44,728 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-13 22:35:45,303 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-13 22:35:45,333 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-13 22:35:45,909 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-13 22:35:45,941 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-13 22:35:46,517 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-13 22:35:46,548 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-13 22:35:47,128 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-13 22:35:47,161 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-13 22:35:47,769 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-18 16:38:55,473 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-18 16:38:56,085 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-18 16:38:56,698 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-18 16:38:57,310 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-18 16:38:57,921 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-18 16:38:58,533 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-18 16:39:02,817 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-18 16:39:03,427 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-18 16:39:04,027 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-18 16:39:04,042 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-18 16:39:04,642 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-18 16:39:05,253 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-18 16:39:05,867 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-18 16:39:06,478 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-18 16:39:07,109 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-18 16:39:08,641 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-18 16:39:09,247 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-18 16:39:09,862 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-18 16:44:28,379 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-18 16:44:28,481 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-18 16:44:28,584 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-18 16:44:28,686 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-18 16:44:28,787 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-18 16:44:28,889 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-18 16:44:37,036 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-07-18 16:44:37,138 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-07-18 16:44:37,240 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-07-18 16:44:37,341 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-07-18 16:44:41,077 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-07-18 16:44:41,179 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-07-21 17:09:27,197 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-21 17:09:27,807 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-21 17:09:28,087 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-07-21 17:09:28,420 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-21 17:09:28,689 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-07-21 17:09:29,021 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-21 17:09:29,305 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-07-21 17:09:29,635 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-21 17:09:29,919 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-07-21 17:09:30,251 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-21 17:09:30,252 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-07-21 17:09:30,535 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-07-21 17:09:30,865 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-21 17:09:31,150 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-07-21 17:09:31,480 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-07-21 17:09:31,761 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-07-21 17:09:32,376 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-13 20:56:43,384 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-13 20:56:43,989 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-13 20:56:44,115 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-13 20:56:44,600 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-13 20:56:44,723 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-13 20:56:45,212 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-13 20:56:45,339 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-13 20:56:45,821 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-13 20:56:45,945 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-13 20:56:46,431 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-13 20:56:46,432 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-08-13 20:56:46,557 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-13 20:56:47,044 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-13 20:56:47,169 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-13 20:56:47,654 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-13 20:56:47,780 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-13 20:56:48,395 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-13 21:07:21,023 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-13 21:07:21,079 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-13 21:12:21,238 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-08-13 21:13:11,068 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-08-13 21:29:58,007 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-13 21:29:58,617 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-13 21:29:59,226 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-13 21:29:59,840 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-13 21:30:00,451 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-13 21:30:01,055 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-13 21:30:01,671 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-13 21:30:02,283 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-13 21:30:03,789 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-13 21:30:04,393 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-13 21:30:04,394 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-08-13 21:30:05,006 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-13 21:30:05,621 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-13 21:30:06,233 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-13 21:30:06,842 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-13 21:30:07,456 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-13 21:30:08,068 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-13 22:09:34,453 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-13 22:09:35,072 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-13 22:09:35,675 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-13 22:09:36,283 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-13 22:09:36,896 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-13 22:09:37,502 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-13 22:09:41,988 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-13 22:09:42,605 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-13 22:09:43,215 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-13 22:09:43,827 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-13 22:09:48,011 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-13 22:09:48,618 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-19 18:51:13,677 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-19 18:51:14,292 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-19 18:51:14,902 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-19 18:51:15,514 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-19 18:51:16,124 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-19 18:51:16,737 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-19 18:51:17,350 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-19 18:51:17,959 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-19 18:51:18,572 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-19 18:51:19,181 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-19 18:51:19,181 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-08-19 18:51:19,797 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-19 18:51:20,410 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-19 18:51:21,024 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-19 18:51:21,637 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-19 18:51:22,246 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-19 18:51:22,859 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-19 18:51:53,058 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-19 18:51:53,100 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-19 18:55:56,863 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-08-19 18:56:33,416 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-08-19 19:32:10,134 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-19 19:32:10,739 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-19 19:32:11,348 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-19 19:32:11,720 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-19 19:32:11,956 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-19 19:32:12,209 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-19 19:32:12,331 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-19 19:32:12,569 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-19 19:32:12,820 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-19 19:32:12,945 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-19 19:32:13,179 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-19 19:32:13,429 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-19 19:32:13,639 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-19 19:32:14,036 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-19 19:32:14,242 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-19 19:32:14,650 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-19 19:32:14,854 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-19 19:32:15,258 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-19 19:32:15,461 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-19 19:32:16,072 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-19 19:32:16,682 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-19 19:32:18,271 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-19 19:32:18,882 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-19 19:32:19,491 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-21 19:00:45,040 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-21 19:00:45,648 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-21 19:00:46,253 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-21 19:00:46,857 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-21 19:00:47,465 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-21 19:00:48,068 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-21 19:00:48,675 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-21 19:00:49,277 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-21 19:01:00,925 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-21 19:01:01,533 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-21 19:01:01,534 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-08-21 19:01:02,141 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-21 19:01:02,746 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-21 19:01:03,351 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-21 19:01:03,956 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-21 19:01:04,561 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-21 19:01:05,162 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-21 19:01:32,565 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-21 19:01:32,616 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-21 19:03:54,509 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-08-21 19:04:37,862 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-08-21 19:05:27,255 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-21 19:05:27,860 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-21 19:05:28,312 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-21 19:05:28,478 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-21 19:05:28,919 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-21 19:05:29,093 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-21 19:05:29,534 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-21 19:05:29,709 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-21 19:05:29,869 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-21 19:05:30,142 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-21 19:05:30,315 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-21 19:05:30,361 - ERROR - Email send failed: [Errno 11001] getaddrinfo failed
+2025-08-21 19:05:30,485 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-21 19:05:30,974 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-21 19:05:31,101 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-21 19:05:31,590 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-21 19:05:31,716 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-21 19:05:32,323 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-21 19:05:32,937 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-22 11:12:37,630 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-22 11:12:38,235 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-22 11:12:38,852 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-22 11:12:39,085 - INFO - [PORT_SCAN] Attack on port 21. Details: Scanning port
+2025-08-22 11:12:39,466 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-22 11:12:39,689 - INFO - [PORT_SCAN] Attack on port 22. Details: Scanning port
+2025-08-22 11:12:40,069 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-22 11:12:40,293 - INFO - [PORT_SCAN] Attack on port 23. Details: Scanning port
+2025-08-22 11:12:40,683 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-22 11:12:40,902 - INFO - [PORT_SCAN] Attack on port 25. Details: Scanning port
+2025-08-22 11:12:40,902 - WARNING - [BLOCKED] IP 127.0.0.1 blocked after excessive activity.
+2025-08-22 11:12:41,297 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-22 11:12:41,506 - INFO - [PORT_SCAN] Attack on port 80. Details: Scanning port
+2025-08-22 11:12:41,902 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-22 11:12:42,107 - INFO - [PORT_SCAN] Attack on port 443. Details: Scanning port
+2025-08-22 11:12:42,709 - INFO - [PORT_SCAN] Attack on port 3306. Details: Scanning port
+2025-08-22 11:12:43,313 - INFO - [PORT_SCAN] Attack on port 5432. Details: Scanning port
+2025-08-22 11:13:13,216 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-22 11:13:13,256 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-22 11:14:40,034 - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-08-22 11:15:04,013 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-08-22 11:20:00,244 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-22 11:20:00,860 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-22 11:20:01,038 - INFO - [PORT_SCAN] Attack on port 21. Scan attempt
+2025-08-22 11:20:01,466 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-22 11:20:01,639 - INFO - [PORT_SCAN] Attack on port 22. Scan attempt
+2025-08-22 11:20:02,082 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-22 11:20:02,251 - INFO - [PORT_SCAN] Attack on port 23. Scan attempt
+2025-08-22 11:20:02,688 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-22 11:20:02,859 - INFO - [PORT_SCAN] Attack on port 25. Scan attempt
+2025-08-22 11:20:03,297 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
+2025-08-22 11:20:03,306 - ERROR - Email send failed: [Errno 11001] getaddrinfo failed
+2025-08-22 11:20:03,467 - INFO - [PORT_SCAN] Attack on port 80. Scan attempt
+2025-08-22 11:20:04,073 - INFO - [PORT_SCAN] Attack on port 443. Scan attempt
